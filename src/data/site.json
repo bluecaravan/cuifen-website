@@ -1,13 +1,11 @@
 {
-  "name": "Eleventy Duo",
-  "description": "Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs.",
-  "url": "https://eleventyduo.netlify.app",
+  "name": "Chen Cuifen",
+  "description": "Cuifen's website and blog.",
+  "url": "https://chencuifen.com",
   "author": {
-    "name": "Author Name",
-    "email": "author@site.com",
-    "twitterHandle": "author_handle"
+    "name": "Chen Cuifen",
+    "email": "hello at chencuifen dot com"
   },
-  "defaultSocialImage": "/images/default-social-image.png",
   "headerLinks": [
     {
       "text": "Blog",
@@ -18,23 +16,11 @@
       "text": "About",
       "url": "/about",
       "external": false
-    }
-  ],
-  "socialLinks": [
-    {
-      "text": "Instagram",
-      "url": "https://instagram.com/",
-      "external": true
     },
     {
-      "text": "GitHub",
-      "url": "https://github.com/yinkakun/eleventy-duo",
-      "external": true
-    },
-    {
-      "text": "Twitter",
-      "url": "https://twitter.com/",
-      "external": true
+      "text": "uses",
+      "url": "/uses",
+      "external": false
     }
   ],
   "footerLinks": [
@@ -44,5 +30,5 @@
       "external": true
     }
   ],
-  "showFooterAttribution": true
+  "showFooterAttribution": false
 }

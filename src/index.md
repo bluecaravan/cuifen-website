@@ -1,8 +1,10 @@
 ---
 layout: home
-title: 'Eleventy Duo'
+title: 'Chen Cuifen'
 ---
 
-# Hello World
+# hi, I'm Cuifen.
 
-Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs. Checkout the [project's github repo](https://github.com/yinkakun/eleventy-duo) for more info.
+reading, writing, gaming in 🇸🇬 ☕ above all, drinking coffee.
+
+**right now, I'm:** reading The Stormlight Archive, playing Diablo IV and Baldur's Gate 3, watching Blue Lock Season 2 and Only Connect Series 20, and outlining the next draft of my novel project.
