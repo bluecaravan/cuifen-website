@@ -79,7 +79,7 @@ a:hover {
 }
 
 ol {
-    list-style-type: lower-alpha;
+    padding: 20px;
 }
 
 ul {
@@ -89,6 +89,7 @@ ul {
 
 li {
     padding-left: 7px;
+    padding-top: 7px;
 }
 
 b,
