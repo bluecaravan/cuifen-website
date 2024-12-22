@@ -32,4 +32,4 @@ You can reach me by email at hello at chencuifen dot com.
 - Research.
 
 ## colophon
-This website is made with Eleventy and deployed with Netlify. Domain hosted with porkbun, an oddly satisfying registrar. Zero analytics, I don't track anything. I have AI-scraping bots blocked to the best of my ability.
+This website is made with [Eleventy](https://www.11ty.dev/) (using the [Eleventy Duo template](https://eleventyduo.netlify.app/)) and deployed with [Netlify](https://www.netlify.com/). Domain hosted with porkbun, an oddly satisfying registrar. Zero analytics, I don't track anything. I have AI-scraping bots blocked to the best of my ability.
