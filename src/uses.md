@@ -22,12 +22,13 @@ name: uses
 ## Software
 - Browser: Firefox or Safari
 - Calendar: Apple Calendar
+- Coding: [Zed](https://zed.dev/)
 - Cloud sync: Synology Drive
 - Distraction blocker: [Freedom](https://freedom.to)
 - Ebooks: [Calibre](https://calibre-ebook.com/)
 - Files: [Forklift](https://binarynights.com/)
 - Journalling: [Obsidian](https://obsidian.md/)
-- Launcher: [Alfred](https://www.alfredapp.com/). I'm calling it a "launcher" in this list because its most immediate usage is as a Spotlight replacement, but it does *so* much more. I use Alfred for everything from currency conversion to translation to renaming and moving files without ever having to open Finder or Forklift.
+- Launcher: [Raycast](https://www.raycast.com/). I'm calling it a "launcher" in this list because its most immediate usage is as a Spotlight replacement, but it does *so* much more.
 - [Music](#INTERNAL_LINK#/post/1): Plex and Plexamp
 - Notes: Obsidian, with Drafts as a quick capture inbox
 - Passwords: 1Password, which also holds other secure information like credit cards, passport details, software licences etc.
