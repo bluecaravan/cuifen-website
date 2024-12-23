@@ -29,7 +29,7 @@ name: uses
 - Files: [Forklift](https://binarynights.com/)
 - Journalling: [Obsidian](https://obsidian.md/)
 - Launcher: [Raycast](https://www.raycast.com/). I'm calling it a "launcher" in this list because its most immediate usage is as a Spotlight replacement, but it does *so* much more.
-- [Music](#INTERNAL_LINK#/post/1): Plex and Plexamp
+- [Music](https://chencuifen.com/posts/owning-my-music/): Plex and Plexamp
 - Notes: Obsidian, with Drafts as a quick capture inbox
 - Passwords: 1Password, which also holds other secure information like credit cards, passport details, software licences etc.
 - Podcasts: [Pocket Casts](https://pocketcasts.com/)
