@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 'Chen Cuifen'
+title: 'home'
 ---
 
 # hi, I'm Cuifen.
