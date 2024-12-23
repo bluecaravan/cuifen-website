@@ -12,12 +12,12 @@ When I'm not at my day job, I'm reading, writing, watching anime and Japanese st
 I love role-playing games, cosy fiction, liminal spaces, and most of all fantastic things.
 
 ## writing
-You can find my full publication and speaking history here. One day I'll get organised and migrate everything properly to this site, but till then, here’s some work I’m particularly proud of:
+You can find my full publication and speaking history [here](https://read.cv/chencuifen). One day I'll get organised and migrate everything properly to this site, but till then, here’s some work I’m particularly proud of:
 
-- My short story “The Funnies” won an Honourable Mention at the Golden Point Awards 2021, and was selected for Best New Singaporean Short Stories Vol 6.
-- My essay “Jennifer” was published in Fourth Genre (Vol 22 No 1, Spring 2020). It is a paid journal, but here is an excerpt.
-- My short story “Sunshade, Starlight” won the Literary Taxidermy Short Story Competition 2019. You can read it in the anthology Pleasure to Burn. This story was a lot of fun to write, and the folks at Literary Taxidermy were kind enough to invite me back as a judge in 2022, which was even more fun.
-- My poem “What My Net Dragged to the Surface” won First Prize at the Troubadour International Poetry Prize 2018.
+- My short story [“The Funnies”](https://www.artshouselimited.sg/images/events/2021/gpa/2021/short-story/ss-eng-Chen-Cuifen.pdf) won an Honourable Mention at the Golden Point Awards 2021, and was selected for [Best New Singaporean Short Stories Vol 6](https://epigrambookshop.sg/collections/epigram-books/products/the-epigram-books-collection-of-best-new-singaporean-short-stories-volume-six).
+- My essay “Jennifer” was published in Fourth Genre (Vol 22 No 1, Spring 2020). It is a paid journal, but here is an [excerpt](https://muse.jhu.edu/article/750656/pdf).
+- My short story “Sunshade, Starlight” won the [Literary Taxidermy Short Story Competition 2019](https://literarytaxidermy.com/contests-previous.html). You can read it in the anthology [Pleasure to Burn](https://www.amazon.com/dp/0999446266). This story was a lot of fun to write, and the folks at Literary Taxidermy were kind enough to invite me back as a judge in 2022, which was even more fun.
+- My poem [“What My Net Dragged to the Surface”](http://www.coffeehousepoetry.org/poems/troubadour-poetry-prize-2018) won First Prize at the Troubadour International Poetry Prize 2018.
 
 I’m currently working on a novel project, on and off.
 
