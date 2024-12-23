@@ -1,7 +1,7 @@
 ---
 title: the great reclamation
 permalink: posts/{{ title | slug }}/index.html
-date: '2023-11-07’
+date: '2023-11-07'
 tags: [reading]
 ---
 
