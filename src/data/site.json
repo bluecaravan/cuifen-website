@@ -21,6 +21,11 @@
       "text": "uses",
       "url": "/uses",
       "external": false
+    },
+    {
+      "text": "links",
+      "url": "/links",
+      "external": false
     }
   ],
   "footerLinks": [

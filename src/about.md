@@ -32,4 +32,4 @@ You can reach me by email at hello at chencuifen dot com.
 - Research.
 
 ## colophon
-This website is made with [Eleventy](https://www.11ty.dev/) (using the [Eleventy Duo template](https://eleventyduo.netlify.app/)) and deployed with Cloudflare Pages. Domain hosted with porkbun, an oddly satisfying registrar. Zero analytics, I don't track anything. I have AI-scraping bots blocked to the best of my ability.
+This website is made with [Eleventy](https://www.11ty.dev/) (using the [Eleventy Duo template](https://eleventyduo.netlify.app/)) and deployed with Cloudflare Pages. Font used is [Standard](https://github.com/brycewilner/Standard) by Bryce Wilner. Domain hosted with porkbun, an oddly satisfying registrar. Zero analytics, I don't track anything. I have AI-scraping bots blocked to the best of my ability.

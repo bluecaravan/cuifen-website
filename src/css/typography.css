@@ -22,7 +22,59 @@ body {
     font-variant-ligatures: contextual;
     -webkit-overflow-scrolling: touch;
     -webkit-text-size-adjust: 100%;
-    font-family: Inter, "IBM Plex Sans", sans-serif;
+    font-family: Standard, "Atkinson Hyperlegible", Inter, sans-serif;
+}
+
+@font-face {
+    font-family: "Standard";
+    src: url("../fonts/standard-book-webfont.woff2") format("woff2");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Standard";
+    src: url("../fonts/standard-bold-webfont.woff2") format("woff2");
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "Standard";
+    src: url("../fonts/standard-book-italic-webfont.woff2") format("woff2");
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Standard";
+    src: url("../fonts/standard-bold-italic-webfont.woff2") format("woff2");
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Atkinson Hyperlegible";
+    src: url("../fonts/Atkinson-Hyperlegible-Regular-102a.woff2")
+        format("woff2");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Atkinson Hyperlegible";
+    src: url("../fonts/Atkinson-Hyperlegible-Bold-102a.woff2") format("woff2");
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "Atkinson Hyperlegible";
+    src: url("../fonts/Atkinson-Hyperlegible-Italic-102a.woff2") format("woff2");
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Atkinson Hyperlegible";
+    src: url("../fonts/Atkinson-Hyperlegible-BoldItalic-102a.woff2")
+        format("woff2");
+    font-weight: bold;
+    font-style: italic;
 }
 
 h1,

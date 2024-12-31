@@ -20,6 +20,7 @@ name: uses
 - ROG Ally X
 
 ## Software
+- Bookmarks: [Anybox](https://anybox.app/)
 - Browser: Firefox or Safari
 - Calendar: Apple Calendar
 - Coding: [Zed](https://zed.dev/)
@@ -34,7 +35,7 @@ name: uses
 - Passwords: 1Password, which also holds other secure information like credit cards, passport details, software licences etc.
 - Podcasts: [Pocket Casts](https://pocketcasts.com/)
 - Read later: [GoodLinks](https://goodlinks.app)
-- Reference manager: [Zotero](https://www.zotero.org/)
+- RSS: [NetNewsWire](https://netnewswire.com/)
 - Screenshots: [Cleanshot X](https://cleanshot.com/)
 - Tasks and reminders: [Things](https://culturedcode.com/things/)
 - Text expander: [Typinator](https://ergonis.com/typinator)
