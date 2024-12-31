@@ -16,4 +16,4 @@ name: links
 - [Reasons to be Cheerful](https://reasonstobecheerful.world/) brings you good news.
 - [Culture Study](https://annehelen.substack.com/) explores culture in all its forms through thought-provoking essays and interviews.
 - [Tedium](https://tedium.co/) is just chock full of interesting trivia.
-- I devour every new [Admiral Cloudberg](https://admiralcloudberg.medium.com/) air crash analysis faster than I read anything else on the internet, even if it’s tens of thousands of words long.
+- I devour every new [Admiral Cloudberg](https://admiralcloudberg.medium.com/) air crash analysis faster than I read anything else on the internet.
