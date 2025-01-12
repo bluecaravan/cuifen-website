@@ -1,3 +1,10 @@
+module.exports = function (eleventyConfig) {
+  // Order matters, put this at the top of your configuration file.
+  // This is relative to your input directory!
+  eleventyConfig.setLayoutsDirectory("layouts");
+  eleventyConfig.setIncludesDirectory("includes");
+};
+
 const { DateTime } = require("luxon");
 const readingTime = require("eleventy-plugin-reading-time");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
