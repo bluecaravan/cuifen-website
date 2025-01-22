@@ -1,0 +1,9 @@
+.microblog_timeline {
+    border: 2px solid #d9d9d9;
+    padding: 15px;
+}
+
+.microblog_time {
+    font-variant: small-caps;
+    font-size: 80%;
+}
