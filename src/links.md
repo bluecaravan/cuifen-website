@@ -17,3 +17,4 @@ name: links
 - [Culture Study](https://annehelen.substack.com/) explores culture in all its forms through thought-provoking essays and interviews.
 - [Tedium](https://tedium.co/) is just chock full of interesting trivia.
 - I devour every new [Admiral Cloudberg](https://admiralcloudberg.medium.com/) air crash analysis faster than I read anything else on the internet.
+- [The Atavist](https://magazine.atavist.com/) publishes incredibly compelling, thorough longform narrative journalism.

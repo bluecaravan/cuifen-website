@@ -12,7 +12,7 @@ When I'm not at my day job, I'm reading, writing, watching anime and Japanese st
 I love role-playing games, cosy fiction, liminal spaces, and most of all fantastic things.
 
 ## writing
-You can find my full publication and speaking history [here](https://read.cv/chencuifen). One day I'll get organised and migrate everything properly to this site, but till then, here’s some work I’m particularly proud of:
+One day I'll get organised and properly update my full publication and speaking history here. Till then, here’s some work I’m particularly proud of:
 
 - My short story [“The Funnies”](https://www.artshouselimited.sg/images/events/2021/gpa/2021/short-story/ss-eng-Chen-Cuifen.pdf) won an Honourable Mention at the Golden Point Awards 2021, and was selected for [Best New Singaporean Short Stories Vol 6](https://epigrambookshop.sg/collections/epigram-books/products/the-epigram-books-collection-of-best-new-singaporean-short-stories-volume-six).
 - My essay “Jennifer” was published in Fourth Genre (Vol 22 No 1, Spring 2020). It is a paid journal, but here is an [excerpt](https://muse.jhu.edu/article/750656/pdf).
