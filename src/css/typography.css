@@ -22,8 +22,7 @@ body {
     font-variant-ligatures: contextual;
     -webkit-overflow-scrolling: touch;
     -webkit-text-size-adjust: 100%;
-    font-family: "Atkinson Hyperlegible", "Instrument Sans", Standard, Inter,
-        sans-serif;
+    font-family: "Atkinson Hyperlegible", Standard, Inter, sans-serif;
 }
 
 @font-face {
@@ -57,9 +56,9 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Spectral";
+    font-family: "Overpass Mono";
     line-height: 1.3;
-    font-weight: 400;
+    font-weight: 500;
     color: rgb(41, 41, 41);
 }
 
@@ -77,7 +76,6 @@ h3 {
 
 h4 {
     font-size: var(--text-xl);
-    font-weight: 500;
 }
 
 h5 {
