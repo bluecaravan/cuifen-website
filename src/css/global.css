@@ -71,7 +71,7 @@ a {
     color: inherit;
     text-decoration: inherit;
     transition: all 200ms linear;
-    text-decoration: underline;
+    text-decoration: underline 1.5px;
 }
 
 a:hover {
