@@ -5,6 +5,12 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.setIncludesDirectory("includes");
 };
 
+const { eleventyImageTransformPlugin } = require("@11ty/eleventy-img");
+
+module.exports = function (eleventyConfig) {
+  eleventyConfig.addPlugin(eleventyImageTransformPlugin);
+};
+
 const { DateTime } = require("luxon");
 const readingTime = require("eleventy-plugin-reading-time");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
@@ -46,6 +52,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.setDataDeepMerge(true);
   eleventyConfig.addPassthroughCopy("src/fonts");
   eleventyConfig.addPassthroughCopy({ "src/images": "images" });
+  eleventyConfig.addPassthroughCopy({ "src/media": "media" });
   eleventyConfig.setBrowserSyncConfig({ files: [manifestPath] });
 
   eleventyConfig.addShortcode("bundledcss", function () {
