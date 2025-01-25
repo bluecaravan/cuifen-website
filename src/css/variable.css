@@ -1,8 +1,11 @@
 :root {
     --accent: #a8bb93;
-    --background: #fffffe;
-    --color: rgb(41, 41, 41);
-    --color-80: rgba(41, 41, 41, 0.8);
-    --color-30: rgba(41, 41, 41, 0.3);
-    --color-10: rgba(41, 41, 41, 0.1);
+    --background: light-dark (#fffffe; #1d1e22);
+    --color: light-dark (rgb(41, 41, 41) ; #eee);
+    --color-80: light-dark (rgba(41, 41, 41, 0.8) ; #eee);
+    --color-30: light-dark (rgba(41, 41, 41, 0.3) ; #eee);
+    --color-10: light-dark (rgba(41, 41, 41, 0.1) ; #eee);
+    --color-hover: light-dark (rgb(117, 117, 117) ; #ccc);
+    --color-title: light-dark (#060606 ; #eee);
+    color-scheme: light dark;
 }
