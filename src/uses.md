@@ -20,13 +20,14 @@ name: uses
 - ROG Ally X
 
 ## Software
-- Bookmarks: [Anybox](https://anybox.app/)
+- Bookmarks: [Raindrop](https://raindrop.io/)
 - Browser: Firefox or Safari
-- Calendar: Apple Calendar
+- Calendar: Fastmail Calendar
 - Coding: [Zed](https://zed.dev/)
 - Cloud sync: Synology Drive
 - Distraction blocker: [Freedom](https://freedom.to)
 - Ebooks: [Calibre](https://calibre-ebook.com/)
+- Email: Fastmail
 - Files: [Forklift](https://binarynights.com/)
 - Journalling: [Obsidian](https://obsidian.md/)
 - Launcher: [Raycast](https://www.raycast.com/). I'm calling it a "launcher" in this list because its most immediate usage is as a Spotlight replacement, but it does *so* much more.
@@ -34,11 +35,11 @@ name: uses
 - Notes: Obsidian, with Drafts as a quick capture inbox
 - Passwords: 1Password, which also holds other secure information like credit cards, passport details, software licences etc.
 - Podcasts: [Pocket Casts](https://pocketcasts.com/)
-- Read later: [GoodLinks](https://goodlinks.app)
-- RSS: [NetNewsWire](https://netnewswire.com/)
+- Read later: [Readeck](https://readeck.org/en/)
+- RSS: [FreshRSS](https://freshrss.org/index.html) with [NetNewsWire](https://netnewswire.com/)
 - Screenshots: [Cleanshot X](https://cleanshot.com/)
-- Tasks and reminders: [Things](https://culturedcode.com/things/)
-- Text expander: [Typinator](https://ergonis.com/typinator)
+- Tasks and reminders: [Todoist](https://todoist.com/)
+- Text expander: [espanso](https://espanso.org/)
 - Videos: [IINA](https://iina.io/), or Plex. I use Blu-Ray Player Pro to watch my Blu-rays on my iMac, and I think it is the best for that purpose, but that's not saying much (the field is woeful). My preferred method is to rip my Blu-rays with [makeMKV](https://www.makemkv.com/) and add them to Plex.
 - Writing: [iA Writer](https://ia.net/writer)
 - YouTube: [Play](https://marcosatanaka.com)

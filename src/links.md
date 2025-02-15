@@ -11,6 +11,10 @@ name: links
 - [Ambient Worlds](https://www.youtube.com/@AmbientWorlds) and [Blue Turtle](https://www.youtube.com/@BlueTurtle) are my favourite YouTube channels for ambient fantasy music.
 - [myNoise](https://mynoise.net/) is the best sound generator on the internet and well worth your one-time donation (or recurring, if you can afford it) to unlock all the sounds on the site.
 
+## Useful stuff
+- I discovered [Fitness Blender](https://www.fitnessblender.com) early on in the pandemic, spent the next few years hopping around between different online fitness channels, and kept coming back to FB. Now I pretty much only work out with them. They’re the best. No nonsense, no annoying music, encouraging trainers who emphasise listening to your body, and way cheaper than a gym membership.
+- [Pikapods](https://www.pikapods.com) hosts a bunch of really cool apps for you for really cheap. You’d usually need your own server and some sysadmin knowledge to run a lot of these, but for as low as $1/month Pikapods gets you up and running.
+
 ## Cool stuff
 - [Colossal](https://www.thisiscolossal.com/) showcases interesting art from around the world.
 - [Reasons to be Cheerful](https://reasonstobecheerful.world/) brings you good news.

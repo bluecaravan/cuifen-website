@@ -1,5 +1,6 @@
 .microblog {
-    border: 2px solid #d9d9d9;
+    border: 2px solid;
+    border-color: var(--color-lines);
     padding: 15px;
 }
 
