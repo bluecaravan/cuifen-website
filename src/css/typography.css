@@ -13,7 +13,7 @@
 
 body {
     font-size: var(--text-lg);
-    line-height: 1.65;
+    line-height: 1.6;
     color: var(--color);
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
@@ -22,7 +22,8 @@ body {
     font-variant-ligatures: contextual;
     -webkit-overflow-scrolling: touch;
     -webkit-text-size-adjust: 100%;
-    font-family: "Atkinson Hyperlegible", Standard, Inter, sans-serif;
+    font-family: "Inclusive Sans", "Atkinson Hyperlegible", Standard, Inter,
+        sans-serif;
 }
 
 @font-face {
@@ -56,7 +57,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Overpass Mono";
+    font-family: "Fraunces";
     line-height: 1.3;
     font-weight: 500;
     color: var(--color);
