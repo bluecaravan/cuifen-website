@@ -1,7 +1,7 @@
 ---
 title: the shape of work
 permalink: posts/{{ title | slug }}/index.html
-date: '2024-12-31'
+date: '2025-03-17'
 tags: [work]
 --- 
 
