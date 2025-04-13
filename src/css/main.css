@@ -9,7 +9,7 @@
 @import "post.css";
 @import "about.css";
 @import "micro.css";
-@import url(https://fonts.bunny.net/css?family=inclusive-sans:400,400i|atkinson-hyperlegible:400,400i,700,700i|fraunces:400,400i,500,500i|overpass-mono:400,500|inter:400,400i);
+@import url(https://fonts.bunny.net/css?family=inclusive-sans:400,400i|fraunces:400,400i,500,500i);
 
 .layout-wrapper {
     display: grid;
