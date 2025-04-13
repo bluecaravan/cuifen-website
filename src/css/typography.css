@@ -22,7 +22,12 @@ body {
     font-variant-ligatures: contextual;
     -webkit-overflow-scrolling: touch;
     -webkit-text-size-adjust: 100%;
-    font-family: Inter, sans-serif;
+    font-family: "Public Sans", Inter, sans-serif;
+}
+
+b,
+strong {
+    font-weight: 700;
 }
 
 h1,
