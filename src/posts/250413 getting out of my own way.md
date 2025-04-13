@@ -2,7 +2,7 @@
 title: getting out of my own way
 permalink: posts/{{ title | slug }}/index.html
 date: '2025-04-13'
-tags: []
+tags: [life, travel, writing]
 ---
 
 When I set up this website, I really wanted to make it a place where I could return to blogging regularly. A low-stakes, comfortable digital home for myself. I think it was relatively easier to do so when it was hosted on micro.blog, which was really made for short-form posts, but I find the mental hurdle a bit higher to jump with 11ty because I keep thinking I need to have something substantial to say with every post (tbf to 11ty, this would also be the case with most other blog platforms). 
