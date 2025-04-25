@@ -57,5 +57,6 @@ name: uses
 ## Assorted gear
 - [Delter Press](https://trinitycoffee.co/pages/delter-coffee-tools) makes my coffee every day. I have an entry level electric burr grinder from DeLonghi that does the job.
 - I've been travelling with a Muji suitcase for I don't know how many years and it's only needed one handle replacement (post-pandemic after atrophying in the cupboard for too long).
+- For shorter trips or even week-long++ ones where I don’t need extra luggage space for souvenir shopping, the [Cotopaxi Allpa 28l](https://www.cotopaxi.com/products/allpa-28l-travel-pack-del-dia) is the king of travel backpacks.
+- For everyday carry: I have a small collection of backpacks and sling bags from [Dagne Dover](https://www.dagnedover.com/) and [Lo & Sons](https://www.loandsons.com/) that have lasted me a long time. They are a bit spendy at full price, but if you can snag them on sale they are great value for how versatile and lasting they are.
 - [Sunnystep](https://mysunnystep.com/) makes the most comfortable shoes in Singapore!
-- I have a small collection of backpacks and sling bags from [Dagne Dover](https://www.dagnedover.com/) and [Lo & Sons](https://www.loandsons.com/) that have lasted me a long time. They are a bit spendy at full price, but if you can snag them on sale they are great value for how versatile and lasting they are.
