@@ -20,7 +20,7 @@ name: uses
 - ROG Ally X
 
 ## Software
-- Bookmarks: [Raindrop](https://raindrop.io/)
+- Bookmarks: [Linkding](https://linkding.link/)
 - Browser: Firefox or Safari
 - Calendar: Fastmail Calendar
 - Coding: [Zed](https://zed.dev/)
@@ -35,10 +35,10 @@ name: uses
 - Notes: Obsidian, with Drafts as a quick capture inbox
 - Passwords: 1Password, which also holds other secure information like credit cards, passport details, software licences etc.
 - Podcasts: [Pocket Casts](https://pocketcasts.com/)
-- Read later: [Readeck](https://readeck.org/en/)
-- RSS: [FreshRSS](https://freshrss.org/index.html) with [NetNewsWire](https://netnewswire.com/)
+- Read later: [Matter](https://getmatter.com/)
+- RSS: [Miniflux](https://miniflux.app/)
 - Screenshots: [Cleanshot X](https://cleanshot.com/)
-- Tasks and reminders: [Todoist](https://todoist.com/)
+- Tasks and reminders: Currently experimenting with pen and paper + digital calendar for time-sensitive tasks
 - Text expander: [espanso](https://espanso.org/)
 - Videos: [IINA](https://iina.io/), or Plex. I use Blu-Ray Player Pro to watch my Blu-rays on my iMac, and I think it is the best for that purpose, but that's not saying much (the field is woeful). My preferred method is to rip my Blu-rays with [makeMKV](https://www.makemkv.com/) and add them to Plex.
 - Writing: [iA Writer](https://ia.net/writer)
