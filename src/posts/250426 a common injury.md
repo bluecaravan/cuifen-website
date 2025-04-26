@@ -1,4 +1,4 @@
-—
+---
 title: a common injury
 permalink: posts/{{ title | slug }}/index.html
 date: '2025-04-26'
